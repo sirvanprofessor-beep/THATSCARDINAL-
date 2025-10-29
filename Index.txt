@@ -1,0 +1,31 @@
+
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+    <meta charset="UTF-8">
+    <title>سایت مهندسی - معرفی</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>نام شما</h1>
+        <nav>
+            <a href="index.html">خانه</a>
+            <a href="projects.html">پروژه‌ها</a>
+        </nav>
+    </header>
+
+    <section class="intro">
+        <img src="profile.jpg" alt="عکس شما">
+        <h2>مهندس ✦ رشته تخصصی</h2>
+        <p>
+            اینجا یک متن معرفی کوتاه درباره خودتان بنویسید:
+            سابقه کاری، تخصص‌ها، مسیر حرفه‌ای...
+        </p>
+    </section>
+
+    <footer>
+        © تمام حقوق محفوظ است
+    </footer>
+</body>
+</html>
