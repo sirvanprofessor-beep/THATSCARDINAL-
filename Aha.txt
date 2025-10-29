@@ -1,0 +1,28 @@
+
+<!DOCTYPE html>
+<html lang="fa">
+<head:
+    <meta charset="UTF-8">
+    <title>پروژه‌ها - thatscardinal</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>پروژه‌های گرافیکی من</h1>
+        <nav>
+            <a href="index.html">خانه</a>
+            <a href="projects.html">پروژه‌ها</a>
+        </nav>
+    </header>
+
+    <section class="projects">
+        <h2>GitHub</h2>
+        <p>می‌تونید پروژه‌های من را در گیت‌هاب مشاهده کنید:</p>
+        <a class="btn" href="https://github.com/sirvanprofessor-beep" target="_blank">مشاهده گیت‌هاب</a>
+    </section>
+
+    <footer>
+        © تمامی حقوق برای thatscardinal محفوظ است.
+    </footer>
+</body>
+</html>
